@@ -8,6 +8,24 @@ Collecte de données sur le marché du cinéma en cold start (API, webscraping),
 
 ![test](/assets/projet2-pagefilms.jpg)
 
+<table style="border: none;">
+  <tr>
+    <td align="center">
+      <img src="/assets/projet2-pagefilms.jpg" alt="Image 1" width="300"/>
+    </td>
+    <td align="center">
+      <img src="/assets/projet2-pagefilms.jpg" alt="Image 2" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="/assets/projet2-pagefilms.jpg" alt="Image 3" width="300"/>
+    </td>
+    <td align="center">
+      <img src="/assets/projet2-pagefilms.jpg" alt="Image 4" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,10 +59,9 @@ Récompenses Remportées 🏆 : Nous sommes ravis d'annoncer que notre projet a 
 
 Remerciements : Un grand merci à toute l'équipe pour leur collaboration exceptionnelle et à la Wild Code School pour l'organisation impeccable ! 
 
-![Rodolp page 1](/assets/Rodolf-pageaccueil.jpg)
-![Rodolp page 2](/assets/Rodolf-pagejoueurs.jpg)
+![Rodolp page 1](/assets/Rodolf.png)
 
-[voir la vidéo](/assets/AppRodolf.mov)
+[Voir la vidéo du projet Rodolf](/assets/AppRodolf.mov)
 
 
 
