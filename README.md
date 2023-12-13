@@ -1,8 +1,12 @@
-# Data Analyst Junior
+![projet2-pagefilms](https://github.com/Marion-lab33/marion-lab33.github.io/assets/143612783/5f8abead-063d-4a09-93b7-adebdeefd8e3)# Data Analyst Junior
 Top Skills : Python / SQL / Power BI / Excel
 
 ### Projet : Cinéma EDEN
 Collecte de données sur le marché du cinéma en cold start (API, webscraping), analyse et recherche de corrélations pour proposer des axes d’orientation, réalisation d'un système de recommandations de films grâce au machine learning
+
+
+![test](/assets/projet2-pagefilms.jpg)
+
 
 ### Projet : Toys & Models 
 Analyse et traitement de la base de données de l'entreprise, création d’un dashboard sur Power BI (vision en temps réel des KPIs pertinents pour permettre la prise de décision)
@@ -32,9 +36,8 @@ Nous sommes ravis d'annoncer que notre projet a remporté deux prix : "Meilleur 
 Un grand merci à toute l'équipe pour leur collaboration exceptionnelle et à la Wild Code School pour l'organisation impeccable ! 
 
 
-![1er hackathon] (/assets/img/App Rodolf - Hackathon.mov)
-![1er hackathon] (/assets/img/1701876832354.jpg)
+![1er hackathon](/assets/AppRodolf.mov)
 
-![1er hackathon] (/assets/1701876832354.jpg)
+![test](/assets/projet2-pagefilms.jpg)
 
 
