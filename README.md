@@ -5,14 +5,9 @@ Top Skills : Python / SQL / Power BI / Excel
 
 ## Machine Learning : Système de recommandation de films 
 
-**Le projet**
+**Le projet** : Le Cinéma EDEN (dans la Creuse) est en perte de vitesse. Son gérant nous demande de l'aider à le redynamiser.
 
-Le Cinéma EDEN (dans la Creuse) est en perte de vitesse. Son gérant nous demande de l'aider à le redynamiser.
-
-**Dashboard**
-
-Collecte de données sur le marché du cinéma en cold start (API, webscraping), analyse et recherche de corrélations pour proposer des axes d’orientation, réalisation 
-d'un dashboard pour aider la prise de décision et d'orientation
+**Dashboard** : Collecte de données sur le marché du cinéma en cold start (API, webscraping), analyse et recherche de corrélations pour proposer des axes d’orientation, réalisation d'un dashboard pour aider la prise de décision et d'orientation
 
 <table style="border: none;">
   <tr style="border: none;">
@@ -33,9 +28,7 @@ d'un dashboard pour aider la prise de décision et d'orientation
   </tr>
 </table>
 
-**Système de recommandation de films**
-
-Developpement d'un système de recommandation de films en machine learning.
+**Machine Learning & Interface** : Developpement d'un système de recommandation de films en machine learning.
 
 ![App page d'accueil](/assets/EDENwebsite-accueil3.jpg)
 
