@@ -3,29 +3,41 @@ Top Skills : Python / SQL / Power BI / Excel
 
 ---
 
-## Projet : Cinéma EDEN
-Collecte de données sur le marché du cinéma en cold start (API, webscraping), analyse et recherche de corrélations pour proposer des axes d’orientation, réalisation d'un système de recommandations de films grâce au machine learning
+## Machine Learning : Système de recommandation de films 
 
-![test](/assets/projet2-pagefilms.jpg)
+**Le projet**
+
+Le Cinéma EDEN (dans la Creuse) est en perte de vitesse. Son gérant nous demande de l'aider à le redynamiser.
+
+**Dashboard**
+
+Collecte de données sur le marché du cinéma en cold start (API, webscraping), analyse et recherche de corrélations pour proposer des axes d’orientation, réalisation 
+d'un dashboard pour aider la prise de décision et d'orientation
 
 <table style="border: none;">
-  <tr>
+  <tr style="border: none;">
     <td align="center">
-      <img src="/assets/projet2-pagefilms.jpg" alt="Image 1" width="300"/>
+      <img src="/assets/projet2-pagedemo.jpg" alt="Image 1" width="300"/>
     </td>
     <td align="center">
-      <img src="/assets/projet2-pagefilms.jpg" alt="Image 2" width="300"/>
+      <img src="/assets/projet2-pagecinemas.jpg" alt="Image 2" width="300"/>
     </td>
   </tr>
-  <tr>
+  <tr style="border: none;">
     <td align="center">
-      <img src="/assets/projet2-pagefilms.jpg" alt="Image 3" width="300"/>
+      <img src="/assets/projet2-pagetendances.jpg" alt="Image 3" width="300"/>
     </td>
     <td align="center">
       <img src="/assets/projet2-pagefilms.jpg" alt="Image 4" width="300"/>
     </td>
   </tr>
 </table>
+
+**Système de recommandation de films**
+
+Developpement d'un système de recommandation de films en machine learning.
+
+![App page d'accueil](/assets/EDENwebsite-accueil3.jpg)
 
 ---
 
