@@ -1,4 +1,4 @@
-![projet2-pagefilms](https://github.com/Marion-lab33/marion-lab33.github.io/assets/143612783/5f8abead-063d-4a09-93b7-adebdeefd8e3)# Data Analyst Junior
+# Data Analyst Junior
 Top Skills : Python / SQL / Power BI / Excel
 
 ### Projet : Cinéma EDEN
