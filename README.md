@@ -32,5 +32,8 @@ Nous sommes ravis d'annoncer que notre projet a remporté deux prix : "Meilleur 
 Un grand merci à toute l'équipe pour leur collaboration exceptionnelle et à la Wild Code School pour l'organisation impeccable ! 
 
 
-![1er hackathon] (/assets/App Rodolf - Hackathon.mov)
+![1er hackathon] (assets/App Rodolf - Hackathon.mov)
+
+![1er hackathon] (assets/1701876832354.jpg)
+
 
