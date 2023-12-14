@@ -3,11 +3,16 @@ Top Skills : Python / SQL / Power BI / Excel
 
 ---
 
-## Machine Learning : Système de recommandation de films 
+## Système de recommandation de films 
 
 **Le projet** : Le Cinéma EDEN (dans la Creuse) est en perte de vitesse. Son gérant nous demande de l'aider à le redynamiser.
 
-**Dashboard** : Collecte de données sur le marché du cinéma en cold start (API, webscraping), analyse et recherche de corrélations pour proposer des axes d’orientation, réalisation d'un dashboard pour aider la prise de décision et d'orientation
+**Dashboard** : En situation de cold start, la première étape consitait en la collecte et l'analyse de données sur le marché du cinéma en France. Le nut étant de proposer des axes d’orientation et d'aider la prise de décision et d'orientation
+- Collecte des données (4 sources): base de donnée IMDB, requête de l'API de TMDB, base de données de l'observatoire national des territoires,
+- Analyse, nettoyage et filtrage des données avec Python (Pandas)
+- Recherche de corrélations entre les données, mise en avant de marche de progression avec Python (librairies de datavisualisation: MatplotLib, Seaborn)
+- Réalisation du dashboard sur Power BI : outil de décision pour le gérant du cinéma
+
 
 <table style="border: none;">
   <tr style="border: none;">
@@ -28,9 +33,27 @@ Top Skills : Python / SQL / Power BI / Excel
   </tr>
 </table>
 
-**Machine Learning & Interface** : Developpement d'un système de recommandation de films en machine learning.
+**Machine Learning & Interface** : Nous deviosn ensuite utiliserez des algorithmes de machine learning pour développer un système de recommandations de films en recommander des films en fonction de films qui ont été propgarmmés par le cinéma (suite au choix de l'orientation)
+Nous avons choisi d'implanter 
+- Création des modèles de machine learning avec Scikit-Learn.
+- ML utilisé : KKN (les plus proches voisins) avec prise en compte 
+- Implantation du modèle dans un template HTML / CSS avec le microframework Python : Flask
+- Connexion entre les pages, réactualisation automatique (choix aléatoire de 5 films parmi la programmation), au clic, mise à disposition des infos du film choisi, recommandations de 12 films qui proposent des similarités
+
 
 ![App page d'accueil](/assets/EDENwebsite-accueil3.jpg)
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td align="center">
+      <img src="/assets/EDENwebsite-film1" alt="Image 1" width="300"/>
+    </td>
+    <td align="center">
+      <img src="/assets/EDENwebsite-film2.jpg" alt="Image 2" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -43,6 +66,7 @@ def hello_world():
     print("Hello, World!")
 ```
 </pre>
+
 
 ---
 
