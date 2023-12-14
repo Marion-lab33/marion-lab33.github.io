@@ -46,7 +46,7 @@ Nous avons choisi d'implanter
 <table style="border: none;">
   <tr style="border: none;">
     <td align="center">
-      <img src="/assets/EDENwebsite-film1" alt="Image 1" width="300"/>
+      <img src="/assets/EDENwebsite-film1.jpg" alt="Image 1" width="300"/>
     </td>
     <td align="center">
       <img src="/assets/EDENwebsite-film2.jpg" alt="Image 2" width="300"/>
