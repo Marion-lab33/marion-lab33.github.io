@@ -7,11 +7,11 @@ Top Skills : Python / SQL / Power BI / Excel
 
 **Le projet** : Le Cinéma EDEN (dans la Creuse) est en perte de vitesse. Son gérant nous demande de l'aider à le redynamiser.
 
-**Dashboard** : En situation de cold start, la première étape consitait en la collecte et l'analyse de données sur le marché du cinéma en France. Le nut étant de proposer des axes d’orientation et d'aider la prise de décision et d'orientation
-- Collecte des données (4 sources): base de donnée IMDB, requête de l'API de TMDB, base de données de l'observatoire national des territoires,
+**Dashboard** : En situation de cold start, la première étape consitait à analyser le marché du cinéma en France. Le but : faire parler les données pour comprendre les besoins du cinéma et lui proposer des axes d’orientation. 
+- Collecte des données (4 sources): base de données IMDB, base de données TMDB (via requête de l'API), données de l'observatoire national des territoires, données INSEE
 - Analyse, nettoyage et filtrage des données avec Python (Pandas)
-- Recherche de corrélations entre les données, mise en avant de marche de progression avec Python (librairies de datavisualisation: MatplotLib, Seaborn)
-- Réalisation du dashboard sur Power BI : outil de décision pour le gérant du cinéma
+- Recherche de corrélations entre les données, mise en avant de marges de progression avec Python (librairies de datavisualisation: MatplotLib, Seaborn)
+- Réalisation du dashboard sur Power BI : outil de prise de décision pour le gérant du cinéma
 
 
 <table style="border: none;">
