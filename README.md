@@ -3,7 +3,7 @@ Top Skills : Python / SQL / Power BI / Excel
 
 ---
 
-## Système de recommandation de films 
+## Cinéma EDEN - Système de recommandation de films 
 
 **Le projet** : Le Cinéma EDEN (dans la Creuse) est en perte de vitesse. Son gérant nous demande de l'aider à le redynamiser.
 
@@ -33,7 +33,7 @@ Top Skills : Python / SQL / Power BI / Excel
   </tr>
 </table>
 
-**Machine Learning & Interface** : Nous deviosn ensuite utiliserez des algorithmes de machine learning pour développer un système de recommandations de films en recommander des films en fonction de films qui ont été propgarmmés par le cinéma (suite au choix de l'orientation)
+**Machine Learning & Interface** : Nous devions ensuite utiliser des algorithmes de machine learning pour développer un système de recommandations de films en recommander des films en fonction de films qui ont été propgarmmés par le cinéma (suite au choix de l'orientation)
 Nous avons choisi d'implanter 
 - Création des modèles de machine learning avec Scikit-Learn.
 - ML utilisé : KKN (les plus proches voisins) avec prise en compte 
@@ -57,8 +57,16 @@ Nous avons choisi d'implanter
 
 ---
 
-## Projet : Toys & Models 
-Analyse et traitement de la base de données de l'entreprise, création d’un dashboard sur Power BI (vision en temps réel des KPIs pertinents pour permettre la prise de décision)
+## Toys & Models - datadriven decisions
+
+**Le projet** : La société Toys & Models a besoin d'un tableau de gestionv qui lui propose la vision en temps réel des KPIs pertinents pour permettre la prise de décision sous 4 axes VENTES / FINANCES / LOGISTIQUE / RESSOURCES HUMAINES
+
+**Modélisation / SQL** :
+- Modélisation de la base de données relationnelle (primary key, foreign key, liens)
+- 
+-
+
+![modelisation projet 1](/assets/Modelisation-projet1.jpg)
 
 <pre>
 ```python
