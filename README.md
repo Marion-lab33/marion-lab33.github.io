@@ -56,13 +56,15 @@ Top Skills : Python / SQL / Power BI / Excel
 
 ## Toys & Models - datadriven decisions
 
-**Le projet** : La société Toys & Models a besoin d'un tableau de bord de gestion qui lui fournit une vision en temps des KPIs pertinents. Le but : permettre la prise de décision
+**Le projet** : La société Toys & Models a besoin d'un tableau de bord de gestion qui lui fournit une vision en temps des KPIs pertinents. Le but : permettre la prise de décision sous 4 axes (ventes, finances, logistique, RH)
 
 **Modélisation / SQL** : 
-- Modélisation de la base de données relationnelle (primary key, foreign key, liens)
-- Réalisation des 4 requêtes SQL demandées : VENTES / FINANCES / LOGISTIQUE / RESSOURCES HUMAINES
+- Modélisation de la base de données relationnelle (clés primaires, clés étrangères, relations) 
+- Réalisation des requêtes SQL sous mySQL workbench. Techniques utilisées : aggregation, fonction...
 
-<img src="/assets/Modelisation-projet1.jpg" alt="modelisation projet 1" width="80%">
+<div style="text-align: center;">
+  <img src="/assets/Modelisation-projet1.jpg" alt="Modélisation Projet 1" width="70%">
+</div>
 
 
 <pre>
@@ -73,7 +75,7 @@ def hello_world():
 </pre>
 
 **Data visualisation** : Réalisation d'un dashboard sur un outil de Business Intelligence, qui permettra à l'entreprise d'améliorer ses performances
-- Intégration mySQL workbench - POWER BI (lien direct des bases de données)
+- Intégration mySQL - POWER BI (lien direct des bases de données)
 - Développement de visualisations (noms des graphs) répartis sur 4 onglets (ventes, finances, logistique, RH)
 
 ---
