@@ -33,12 +33,9 @@ Top Skills : Python / SQL / Power BI / Excel
   </tr>
 </table>
 
-**Machine Learning & Interface** : Nous devions ensuite utiliser des algorithmes de machine learning pour développer un système de recommandations de films en recommander des films en fonction de films qui ont été propgarmmés par le cinéma (suite au choix de l'orientation)
-Nous avons choisi d'implanter 
-- Création des modèles de machine learning avec Scikit-Learn.
-- ML utilisé : KKN (les plus proches voisins) avec prise en compte 
-- Implantation du modèle dans un template HTML / CSS avec le microframework Python : Flask
-- Connexion entre les pages, réactualisation automatique (choix aléatoire de 5 films parmi la programmation), au clic, mise à disposition des infos du film choisi, recommandations de 12 films qui proposent des similarités
+**Machine Learning & Interface** : Nous avons ensuite utilisé des algorithmes de machine learning pour développer un système de recommandations de films. Fonctionnement : à partir d'un choix de 5 films programmés par le cinéma, notre modèle permet d'affichier une nouvelle sélection de films qui proposent des similarités.
+- Création des modèles de machine learning avec Scikit-Learn. Modèles utilisés : KKN (les plus proches voisins) avec prise en compte de telle et telle variable
+- Implantation du modèle dans un template HTML / CSS avec le microframework Flask
 
 
 ![App page d'accueil](/assets/EDENwebsite-accueil3.jpg)
@@ -59,14 +56,14 @@ Nous avons choisi d'implanter
 
 ## Toys & Models - datadriven decisions
 
-**Le projet** : La société Toys & Models a besoin d'un tableau de gestionv qui lui propose la vision en temps réel des KPIs pertinents pour permettre la prise de décision sous 4 axes VENTES / FINANCES / LOGISTIQUE / RESSOURCES HUMAINES
+**Le projet** : La société Toys & Models a besoin d'un tableau de bord de gestion qui lui fournit une vision en temps des KPIs pertinents. Le but : permettre la prise de décision
 
-**Modélisation / SQL** :
+**Modélisation / SQL** : 
 - Modélisation de la base de données relationnelle (primary key, foreign key, liens)
-- 
--
+- Réalisation des 4 requêtes SQL demandées : VENTES / FINANCES / LOGISTIQUE / RESSOURCES HUMAINES
 
-![modelisation projet 1](/assets/Modelisation-projet1.jpg)
+<img src="/assets/Modelisation-projet1.jpg" alt="modelisation projet 1" width="80%">
+
 
 <pre>
 ```python
@@ -75,6 +72,9 @@ def hello_world():
 ```
 </pre>
 
+**Data visualisation** : Réalisation d'un dashboard sur un outil de Business Intelligence, qui permettra à l'entreprise d'améliorer ses performances
+- Intégration mySQL workbench - POWER BI (lien direct des bases de données)
+- Développement de visualisations (noms des graphs) répartis sur 4 onglets (ventes, finances, logistique, RH)
 
 ---
 
@@ -96,7 +96,7 @@ Récompenses Remportées 🏆 : Nous sommes ravis d'annoncer que notre projet a 
 
 Remerciements : Un grand merci à toute l'équipe pour leur collaboration exceptionnelle et à la Wild Code School pour l'organisation impeccable ! 
 
-![Rodolp page 1](/assets/Rodolf.png)
+<img src="/assets/Rodolf.png" alt="Rodolp page 1" width="80%">
 
 [Voir la vidéo du projet Rodolf](/assets/AppRodolf.mov)
 
