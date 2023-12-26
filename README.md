@@ -76,8 +76,6 @@ Top Skills : Python / SQL / Power BI / Excel
   </tr>
 </table>
 
-test2
-
 <br>
 
 **Data visualisation** : Réalisation d'un dashboard sur un outil de Business Intelligence, qui permettra à l'entreprise d'améliorer ses performances
@@ -96,7 +94,9 @@ test2
 </table>
 
 <br>
+
 ---
+
 <br>
 
 ## Mon premier hackathon ! 
@@ -120,6 +120,11 @@ Remerciements : Un grand merci à toute l'équipe pour leur collaboration except
 <div style="text-align: center;">
   <img src="/assets/Rodolf.png" alt="Rodolp page 1" style="width: 80%; display: block; margin: 0 auto;">
 </div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="/assets/AppRodolf.mov">Voir la vidéo du projet Rodolf</a>
+</div>
+
 
 [Voir la vidéo du projet Rodolf](/assets/AppRodolf.mov)
 
