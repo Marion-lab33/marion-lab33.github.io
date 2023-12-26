@@ -2,6 +2,7 @@
 Top Skills : Python / SQL / Power BI / Excel
 
 ---
+<br>
 
 ## Système de recommandation de films 
 
@@ -54,6 +55,7 @@ Top Skills : Python / SQL / Power BI / Excel
 
 
 ---
+<br>
 
 ## Toys & Models - datadriven decisions
 
@@ -85,6 +87,7 @@ Top Skills : Python / SQL / Power BI / Excel
 </table>
 
 ---
+<br>
 
 ## Mon premier hackathon ! 
 
