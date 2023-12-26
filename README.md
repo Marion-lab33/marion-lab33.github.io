@@ -43,13 +43,14 @@ Top Skills : Python / SQL / Power BI / Excel
 <table style="border: none;">
   <tr style="border: none;">
     <td align="center">
-      <img src="/assets/EDENwebsite-film1.jpg" alt="Image 1" width="300"/>
+      <img src="/assets/EDENwebsite-film1.jpg" alt="Image 1" width="300">
     </td>
     <td align="center">
-      <img src="/assets/EDENwebsite-film2.jpg" alt="Image 2" width="300"/>
+      <img src="/assets/EDENwebsite-film2.jpg" alt="Image 2" width="300">
     </td>
   </tr>
 </table>
+
 
 
 ---
@@ -63,20 +64,25 @@ Top Skills : Python / SQL / Power BI / Excel
 - Réalisation des requêtes SQL sous mySQL workbench. Techniques utilisées : fonctions d'aggregation, jointures, sous-requêtes, fonctions mathématiques, de dates...
 
 <div style="text-align: center;">
-  <img src="/assets/Modelisation-projet1.jpg" alt="Modélisation Projet 1" width="70%">
+  <img src="/assets/Modelisation-projet1.jpg" alt="Modélisation Projet 1" width="60%">
 </div>
 
 
-<pre>
-```python
-def hello_world():
-    print("Hello, World!")
-```
-</pre>
 
 **Data visualisation** : Réalisation d'un dashboard sur un outil de Business Intelligence, qui permettra à l'entreprise d'améliorer ses performances
 - Intégration mySQL - POWER BI (lien direct des bases de données)
 - Développement de visualisations (noms des graphs) répartis sur 4 onglets (ventes, finances, logistique, RH)
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td align="center">
+      <img src="/assets/projet1-pageventes.jpg" alt="Image 1" width="300"/>
+    </td>
+    <td align="center">
+      <img src="/assets/projet1-pagerh.jpg" alt="Image 2" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,7 +104,7 @@ Récompenses Remportées 🏆 : Nous sommes ravis d'annoncer que notre projet a 
 
 Remerciements : Un grand merci à toute l'équipe pour leur collaboration exceptionnelle et à la Wild Code School pour l'organisation impeccable ! 
 
-<img src="/assets/Rodolf.png" alt="Rodolp page 1" width="80%">
+<img src="/assets/Rodolf.png" alt="Rodolp page 1" width="80%" style="text-align: center;">
 
 [Voir la vidéo du projet Rodolf](/assets/AppRodolf.mov)
 
