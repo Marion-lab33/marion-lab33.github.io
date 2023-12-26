@@ -59,7 +59,7 @@ Top Skills : Python / SQL / Power BI / Excel
     <td align="center" style="padding: 0; border: none; margin-right: 10px;">
       <img src="/assets/projet2-pagedemo.jpg" alt="Image 1" width="300" style="display: block; margin: 0 auto; margin-bottom: 10px;"/>
     </td>
-    <td align="center" style="padding: 0; border: none; margin-left: 10px;">
+    <td align="center" style="padding: 0; border: none; padding-left: 10px;">
       <img src="/assets/projet2-pagecinemas.jpg" alt="Image 2" width="300" style="display: block; margin: 0 auto; margin-bottom: 10px;"/>
     </td>
   </tr>
@@ -67,13 +67,14 @@ Top Skills : Python / SQL / Power BI / Excel
     <td align="center" style="padding: 0; border: none; margin-right: 10px;">
       <img src="/assets/projet2-pagetendances.jpg" alt="Image 3" width="300" style="display: block; margin: 0 auto; margin-bottom: 10px;"/>
     </td>
-    <td align="center" style="padding: 0; border: none; margin-left: 10px;">
+    <td align="center" style="padding: 0; border: none; padding-left: 10px;">
       <img src="/assets/projet2-pagefilms.jpg" alt="Image 4" width="300" style="display: block; margin: 0 auto; margin-bottom: 10px;"/>
     </td>
   </tr>
 </table>
 
-version 3 pour vérif
+
+version 4 pour vérif
 
 
 **Machine Learning & Interface** : Nous avons ensuite utilisé des algorithmes de machine learning pour développer un système de recommandations de films. Fonctionnement : à partir d'un choix de 5 films programmés par le cinéma, notre modèle permet d'afficher une nouvelle sélection de films qui proposent des similarités (genres, acteurs, réalisateurs, pays de production, description des films avec la création de nuages de mots)
