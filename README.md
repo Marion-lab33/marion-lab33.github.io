@@ -3,11 +3,11 @@ Top Skills : Python / SQL / Power BI / Excel
 
 ---
 
-## Cinéma EDEN - Système de recommandation de films 
+## Système de recommandation de films 
 
 **Le projet** : Le Cinéma EDEN (dans la Creuse) est en perte de vitesse. Son gérant nous demande de l'aider à le redynamiser.
 
-**Dashboard** : En situation de cold start, la première étape consitait à analyser le marché du cinéma en France. Le but : faire parler les données pour comprendre les besoins du cinéma et lui proposer des axes d’orientation. 
+**Dashboard et KPIs** : En situation de cold start, la première étape consitait à analyser le marché du cinéma en France. Le but : faire parler les données pour comprendre les besoins du cinéma et lui proposer des axes d’orientation. 
 - Collecte des données (4 sources): base de données IMDB, base de données TMDB (via requête de l'API), données de l'observatoire national des territoires, données INSEE
 - Analyse, nettoyage et filtrage des données avec Python (Pandas)
 - Recherche de corrélations entre les données, mise en avant de marges de progression avec Python (librairies de datavisualisation: MatplotLib, Seaborn)
@@ -33,8 +33,8 @@ Top Skills : Python / SQL / Power BI / Excel
   </tr>
 </table>
 
-**Machine Learning & Interface** : Nous avons ensuite utilisé des algorithmes de machine learning pour développer un système de recommandations de films. Fonctionnement : à partir d'un choix de 5 films programmés par le cinéma, notre modèle permet d'affichier une nouvelle sélection de films qui proposent des similarités.
-- Création des modèles de machine learning avec Scikit-Learn. Modèles utilisés : KKN (les plus proches voisins) avec prise en compte de telle et telle variable
+**Machine Learning & Interface** : Nous avons ensuite utilisé des algorithmes de machine learning pour développer un système de recommandations de films. Fonctionnement : à partir d'un choix de 5 films programmés par le cinéma, notre modèle permet d'afficher une nouvelle sélection de films qui proposent des similarités (genres, acteurs, réalisateurs, pays de production, description des films avec la création de nuages de mots)
+- Test et choix du modèle de machine learning avec Scikit-Learn : KKN (les plus proches voisins) 
 - Implantation du modèle dans un template HTML / CSS avec le microframework Flask
 
 
@@ -56,11 +56,11 @@ Top Skills : Python / SQL / Power BI / Excel
 
 ## Toys & Models - datadriven decisions
 
-**Le projet** : La société Toys & Models a besoin d'un tableau de bord de gestion qui lui fournit une vision en temps des KPIs pertinents. Le but : permettre la prise de décision sous 4 axes (ventes, finances, logistique, RH)
+**Le projet** : La société Toys & Models a besoin d'un tableau de bord de gestion qui lui fournit une vision en temps réel des KPIs pertinents. Le but : permettre la prise de décision sous 4 axes (ventes, finances, logistique, RH)
 
-**Modélisation / SQL** : 
+**Modélisation / requêtes SQL** : 
 - Modélisation de la base de données relationnelle (clés primaires, clés étrangères, relations) 
-- Réalisation des requêtes SQL sous mySQL workbench. Techniques utilisées : aggregation, fonction...
+- Réalisation des requêtes SQL sous mySQL workbench. Techniques utilisées : fonctions d'aggregation, jointures, sous-requêtes, fonctions mathématiques, de dates...
 
 <div style="text-align: center;">
   <img src="/assets/Modelisation-projet1.jpg" alt="Modélisation Projet 1" width="70%">
