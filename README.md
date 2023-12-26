@@ -34,6 +34,26 @@ Top Skills : Python / SQL / Power BI / Excel
   </tr>
 </table>
 
+User
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td align="center">
+      <img src="/assets/projet2-pagedemo.jpg" alt="Image 1" width="300"/>
+    </td>
+    <td align="center">
+      <img src="/assets/projet2-pagecinemas.jpg" alt="Image 2" width="300"/>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center">
+      <img src="/assets/projet2-pagetendances.jpg" alt="Image 3" width="300"/>
+    </td>
+    <td align="center">
+      <img src="/assets/projet2-pagefilms.jpg" alt="Image 4" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 **Machine Learning & Interface** : Nous avons ensuite utilisé des algorithmes de machine learning pour développer un système de recommandations de films. Fonctionnement : à partir d'un choix de 5 films programmés par le cinéma, notre modèle permet d'afficher une nouvelle sélection de films qui proposent des similarités (genres, acteurs, réalisateurs, pays de production, description des films avec la création de nuages de mots)
 - Test et choix du modèle de machine learning avec Scikit-Learn : KKN (les plus proches voisins) 
@@ -66,40 +86,20 @@ Top Skills : Python / SQL / Power BI / Excel
 - Modélisation de la base de données relationnelle (clés primaires, clés étrangères, relations) 
 - Réalisation des requêtes SQL sous mySQL workbench. Techniques utilisées : fonctions d'aggregation, jointures, sous-requêtes, fonctions mathématiques, de dates...
 
-<div style="text-align: center;">
-  <img src="/assets/Modelisation-projet1.jpg" alt="Modélisation Projet 1" width="60%">
-</div>
 <br><br>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td align="center">
+      <img src="/assets/Modelisation-projet1.jpg" alt="Image 1" width="300"/>
+    </td>
+    <td align="center">
+      <img src="/assets/projet1-pagerh.jpg" alt="Image 2" width="300"/>
+    </td>
+  </tr>
+</table>
 
-```sql
-SELECT 
-    o.customerNumber AS Numéro_Client,
-    c.customerName AS Nom_Client,
-    Montant.Montant,
-    TotalPaiement.Paiement,
-    Montant.Montant - TotalPaiement.Paiement AS Reste_à_payer
-FROM orders AS o
-INNER JOIN (
-    SELECT 
-        o.customerNumber,
-        SUM(od.quantityOrdered * od.priceEach) AS Montant
-    FROM orderdetails AS od
-    INNER JOIN orders AS o ON od.orderNumber = o.orderNumber
-        WHERE o.status != 'Cancelled'
-    GROUP BY o.customerNumber
-) AS Montant ON o.customerNumber = Montant.customerNumber
-INNER JOIN (
-    SELECT 
-        p.customerNumber,
-        SUM(p.amount) AS Paiement
-    FROM payments AS p
-    GROUP BY p.customerNumber
-) AS TotalPaiement ON o.customerNumber = TotalPaiement.customerNumber
-INNER JOIN customers AS c ON c.customerNumber = o.customerNumber
-WHERE Montant.Montant - TotalPaiement.Paiement > 0
-GROUP BY o.customerNumber, c.customerName
-ORDER BY Reste_à_payer;
-```
+
+
 
 **Data visualisation** : Réalisation d'un dashboard sur un outil de Business Intelligence, qui permettra à l'entreprise d'améliorer ses performances
 - Intégration mySQL - POWER BI (lien direct des bases de données)
