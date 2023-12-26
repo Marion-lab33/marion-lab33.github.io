@@ -53,8 +53,7 @@ Top Skills : Python / SQL / Power BI / Excel
   </tr>
 </table>
 
-test
-
+<br>
 ---
 <br>
 
@@ -66,35 +65,37 @@ test
 - Modélisation de la base de données relationnelle (clés primaires, clés étrangères, relations) 
 - Réalisation des requêtes SQL sous mySQL workbench. Techniques utilisées : fonctions d'aggregation, jointures, sous-requêtes, fonctions mathématiques, de dates...
 
-<table style="border: none;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
-    <td align="center">
-      <img src="/assets/Modelisation-projet1.jpg" alt="Image 1" width="300"/>
+    <td align="center" style="padding: 0; border: none; margin-right: 10px;">
+      <img src="/assets/Modelisation-projet1.jpg" alt="Image 1" width="250" style="display: block; margin: 0 auto;"/>
     </td>
-    <td align="center">
-      <img src="/assets/requeteSQL-finances.jpg" alt="Image 2" width="300"/>
+    <td align="center" style="padding: 0; border: none; padding-left: 10px;">
+      <img src="/assets/requeteSQL-finances.jpg" alt="Image 2" width="350" style="display: block; margin: 0 auto;"/>
     </td>
   </tr>
 </table>
 
-<br>
+test2
 
+<br>
 
 **Data visualisation** : Réalisation d'un dashboard sur un outil de Business Intelligence, qui permettra à l'entreprise d'améliorer ses performances
 - Intégration mySQL - POWER BI (lien direct des bases de données)
 - Développement de visualisations (noms des graphs) répartis sur 4 onglets (ventes, finances, logistique, RH)
 
-<table style="border: none;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
-    <td align="center">
-      <img src="/assets/projet1-pageventes.jpg" alt="Image 1" width="300"/>
+    <td align="center" style="padding: 0; border: none; margin-right: 10px;">
+      <img src="/assets/projet1-pageventes.jpg" alt="Image 1" width="300" style="display: block; margin: 0 auto;"/>
     </td>
-    <td align="center">
-      <img src="/assets/projet1-pagerh.jpg" alt="Image 2" width="300"/>
+    <td align="center" style="padding: 0; border: none; padding-left: 10px;">
+      <img src="/assets/projet1-pagerh.jpg" alt="Image 2" width="300" style="display: block; margin: 0 auto;"/>
     </td>
   </tr>
 </table>
 
+<br>
 ---
 <br>
 
@@ -116,7 +117,9 @@ Récompenses Remportées 🏆 : Nous sommes ravis d'annoncer que notre projet a 
 
 Remerciements : Un grand merci à toute l'équipe pour leur collaboration exceptionnelle et à la Wild Code School pour l'organisation impeccable ! 
 
-<img src="/assets/Rodolf.png" alt="Rodolp page 1" width="80%" style="text-align: center;">
+<div style="text-align: center;">
+  <img src="/assets/Rodolf.png" alt="Rodolp page 1" style="width: 80%; display: block; margin: 0 auto;">
+</div>
 
 [Voir la vidéo du projet Rodolf](/assets/AppRodolf.mov)
 
