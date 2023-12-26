@@ -73,6 +73,7 @@ Top Skills : Python / SQL / Power BI / Excel
   </tr>
 </table>
 
+version 3 pour vérif
 
 
 **Machine Learning & Interface** : Nous avons ensuite utilisé des algorithmes de machine learning pour développer un système de recommandations de films. Fonctionnement : à partir d'un choix de 5 films programmés par le cinéma, notre modèle permet d'afficher une nouvelle sélection de films qui proposent des similarités (genres, acteurs, réalisateurs, pays de production, description des films avec la création de nuages de mots)
