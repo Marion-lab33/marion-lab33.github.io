@@ -18,23 +18,22 @@ Top Skills : Python / SQL / Power BI / Excel
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td align="center" style="padding: 0; border: none;">
-      <img src="/assets/projet2-pagedemo.jpg" alt="Image 1" width="300" style="display: block; margin: 0 auto;"/>
+      <img src="/assets/projet2-pagedemo.jpg" alt="Image 1" width="300" style="display: block; margin: 10 auto;"/>
     </td>
     <td align="center" style="padding: 0; border: none;">
-      <img src="/assets/projet2-pagecinemas.jpg" alt="Image 2" width="300" style="display: block; margin: 0 auto;"/>
+      <img src="/assets/projet2-pagecinemas.jpg" alt="Image 2" width="300" style="display: block; margin: 10 auto;"/>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="padding: 0; border: none;">
-      <img src="/assets/projet2-pagetendances.jpg" alt="Image 3" width="300" style="display: block; margin: 0 auto;"/>
+      <img src="/assets/projet2-pagetendances.jpg" alt="Image 3" width="300" style="display: block; margin: 10 auto;"/>
     </td>
     <td align="center" style="padding: 0; border: none;">
-      <img src="/assets/projet2-pagefilms.jpg" alt="Image 4" width="300" style="display: block; margin: 0 auto;"/>
+      <img src="/assets/projet2-pagefilms.jpg" alt="Image 4" width="300" style="display: block; margin: 10 auto;"/>
     </td>
   </tr>
 </table>
 
-User
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td align="center">
