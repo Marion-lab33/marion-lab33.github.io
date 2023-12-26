@@ -36,6 +36,26 @@ Top Skills : Python / SQL / Power BI / Excel
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
+    <td align="center" style="padding: 0; border: none;">
+      <img src="/assets/projet2-pagedemo.jpg" alt="Image 1" width="300" style="display: block; margin: 0 auto; margin-bottom: 10px;"/>
+    </td>
+    <td align="center" style="padding: 0; border: none;">
+      <img src="/assets/projet2-pagecinemas.jpg" alt="Image 2" width="300" style="display: block; margin: 0 auto; margin-bottom: 10px;"/>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="padding: 0; border: none;">
+      <img src="/assets/projet2-pagetendances.jpg" alt="Image 3" width="300" style="display: block; margin: 0 auto; margin-bottom: 10px;"/>
+    </td>
+    <td align="center" style="padding: 0; border: none;">
+      <img src="/assets/projet2-pagefilms.jpg" alt="Image 4" width="300" style="display: block; margin: 0 auto; margin-bottom: 10px;"/>
+    </td>
+  </tr>
+</table>
+
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
     <td align="center">
       <img src="/assets/projet2-pagedemo.jpg" alt="Image 1" width="300"/>
     </td>
@@ -92,7 +112,7 @@ Top Skills : Python / SQL / Power BI / Excel
       <img src="/assets/Modelisation-projet1.jpg" alt="Image 1" width="300"/>
     </td>
     <td align="center">
-      <img src="/assets/projet1-pagerh.jpg" alt="Image 2" width="300"/>
+      <img src="/assets/requeteSQL-finances.jpg" alt="Image 2" width="300"/>
     </td>
   </tr>
 </table>
