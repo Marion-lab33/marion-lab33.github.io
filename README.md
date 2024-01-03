@@ -57,9 +57,41 @@ Top Skills : Python / SQL / Power BI / Excel
 
 <br>
 
-## Toys & Models - datadriven decisions
+## Jeux Steam 🎮 - EDA
 
-**Le projet** : La société Toys & Models a besoin d'un tableau de bord de gestion qui lui fournit une vision en temps réel des KPIs pertinents. Le but : permettre la prise de décision sous 4 axes (ventes, finances, logistique, RH)
+Une petite EDA (Analyse Exploratoire de Données) réalisée pendant les vacances de Noël sur un dataset de 27000 jeux Steam. L'objectif était d'appliquer une gamme étendue de connaissances et de méthodes acquises au cours de la formation, en Python et en visualisation de données.
+
+**Quelques axes d'analyse**
+- Découverte de tendances parmi les jeux Steam
+- Analyse des genres de jeux préférées des utilisateurs
+- Recherche de corrélations entre les différentes variables
+
+**Outils utilisés**
+- Python & Pandas pour le nettoyage et l'analyse des données
+- Matplotlib & Seaborn pour la datavisualisation
+
+**Lien vers le projet**🔗 
+Je partage l'intégralité de mon travail sur [GitHub](https://github.com/Marion-lab33/steam-games/).
+
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td align="center" style="padding: 0; border: none; margin-right: 10px;">
+      <img src="/assets/steam1.jpg" alt="Image 1" width="300" style="display: block; margin: 0 auto;"/>
+    </td>
+    <td align="center" style="padding: 0; border: none; padding-left: 10px;">
+      <img src="/assets/steam3.jpg" alt="Image 2" width="300" style="display: block; margin: 0 auto;"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<br>
+
+## Toys & Models - Décisions datadriven
+
+**Le projet** : La société Toys & Models a besoin d'un tableau de bord de gestion qui lui fournit une vision en temps réel des KPIs pertinents. Le but : aider à la prise de décisions datadriven.
 
 **Modélisation / requêtes SQL** : 
 - Modélisation de la base de données relationnelle (clés primaires, clés étrangères, relations) 
@@ -80,7 +112,7 @@ Top Skills : Python / SQL / Power BI / Excel
 
 **Data visualisation** : Réalisation d'un dashboard sur un outil de Business Intelligence, qui permettra à l'entreprise d'améliorer ses performances
 - Intégration mySQL - POWER BI (lien direct des bases de données)
-- Développement de visualisations (noms des graphs) répartis sur 4 onglets (ventes, finances, logistique, RH)
+- Développement de visualisations (histogramme, graphique en courbe / secteurs / ruban, segment...) répartis sur 4 onglets (ventes, finances, logistique, RH)
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
